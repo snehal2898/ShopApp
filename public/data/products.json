@@ -1,0 +1,6 @@
+[
+    {"id":101,"name":"Refrigerator","brand":"Whirlpool","price":35600.00},
+    {"id":102,"name":"Washing Machine","brand":"LG","price":22800.00},
+    {"id":103,"name":"Microwave Oven","brand":"Samsung","price":15900.00},
+    {"id":104,"name":"Iron","brand":"Phillips","price":2500.00}
+]
